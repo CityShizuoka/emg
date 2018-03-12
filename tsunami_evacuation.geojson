@@ -1,0 +1,4500 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36086,
+                    34.92335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営用宗団地",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗四丁目1番25号<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.36086<br>緯度: 34.92335",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗四丁目1番25号",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.36086",
+                "緯度": "34.92335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36249,
+                    34.91909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "用宗老人福祉センター",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗五丁目21番10号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.36249<br>緯度: 34.91909",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗五丁目21番10号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.36249",
+                "緯度": "34.91909"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36142,
+                    34.92286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "大三ビル",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗四丁目3番27号<br>避難可能場所: 3~5階の階段・踊場・廊下、屋上<br>高さ: <br>経度: 138.36142<br>緯度: 34.92286",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗四丁目3番27号",
+                "避難可能場所": "3~5階の階段・踊場・廊下、屋上",
+                "高さ": "",
+                "経度": "138.36142",
+                "緯度": "34.92286"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36086,
+                    34.92335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "用宗公民館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗四丁目1番6号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.36086<br>緯度: 34.92335",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗四丁目1番6号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.36086",
+                "緯度": "34.92335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36935,
+                    34.92805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "長田南小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区広野四丁目7番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.36935<br>緯度: 34.92805",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区広野四丁目7番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.36935",
+                "緯度": "34.92805"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.35693,
+                    34.93003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "城山中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区小坂二丁目33番地<br>避難可能場所: 3、4階廊下<br>高さ: <br>経度: 138.35693<br>緯度: 34.93003",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区小坂二丁目33番地",
+                "避難可能場所": "3、4階廊下",
+                "高さ": "",
+                "経度": "138.35693",
+                "緯度": "34.93003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.38118,
+                    34.92846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡広野病院",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区広野1494番地の8<br>避難可能場所: 3、4階廊下、5階の食堂兼談話室・廊下、6階倉庫<br>高さ: <br>経度: 138.38118<br>緯度: 34.92846",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区広野1494番地の8",
+                "避難可能場所": "3、4階廊下、5階の食堂兼談話室・廊下、6階倉庫",
+                "高さ": "",
+                "経度": "138.38118",
+                "緯度": "34.92846"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36299,
+                    34.92316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "コーポラス用宗I",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗三丁目5番43号<br>避難可能場所: 3階共用部分<br>高さ: <br>経度: 138.36299<br>緯度: 34.92316",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗三丁目5番43号",
+                "避難可能場所": "3階共用部分",
+                "高さ": "",
+                "経度": "138.36299",
+                "緯度": "34.92316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36299,
+                    34.92316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "コーポラス用宗II",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗三丁目5番44号<br>避難可能場所: 3、4階共用部分<br>高さ: <br>経度: 138.36299<br>緯度: 34.92316",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗三丁目5番44号",
+                "避難可能場所": "3、4階共用部分",
+                "高さ": "",
+                "経度": "138.36299",
+                "緯度": "34.92316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36676,
+                    34.92143,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "公益財団法人野村生涯教育センター静岡研修会館別館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 長田南<br>所在地: 静岡市駿河区用宗二丁目25番12号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.36676<br>緯度: 34.92143",
+                "種別": "津波避難ビル",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗二丁目25番12号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.36676",
+                "緯度": "34.92143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.37532,
+                    34.93526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "かわはら会館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区下川原六丁目1番6号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.37532<br>緯度: 34.93526",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区下川原六丁目1番6号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.37532",
+                "緯度": "34.93526"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.38026,
+                    34.93079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営桃園団地",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区桃園町3番1号<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.38026<br>緯度: 34.93079",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区桃園町3番1号",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.38026",
+                "緯度": "34.93079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.37927,
+                    34.93324,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "有料老人ホーム_ペリデ下川原",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区下川原五丁目33番17号<br>避難可能場所: 3階の階段・踊場、屋上<br>高さ: <br>経度: 138.37927<br>緯度: 34.93324",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区下川原五丁目33番17号",
+                "避難可能場所": "3階の階段・踊場、屋上",
+                "高さ": "",
+                "経度": "138.37927",
+                "緯度": "34.93324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.38419,
+                    34.93139,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡徳洲会病院",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区下川原南11番1号<br>避難可能場所: 5階ベランダ<br>高さ: <br>経度: 138.38419<br>緯度: 34.93139",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区下川原南11番1号",
+                "避難可能場所": "5階ベランダ",
+                "高さ": "",
+                "経度": "138.38419",
+                "緯度": "34.93139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.38293,
+                    34.9378,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "川原小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区下川原四丁目14番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.38293<br>緯度: 34.93780",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区下川原四丁目14番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.38293",
+                "緯度": "34.93780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.38141,
+                    34.93206,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SBSマイホームセンター静岡展示場津波避難ビル駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 川原<br>所在地: 静岡市駿河区下川原南23番7号<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.38141<br>緯度: 34.93206",
+                "種別": "津波避難ビル",
+                "地区": "川原",
+                "所在地": "静岡市駿河区下川原南23番7号",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.38141",
+                "緯度": "34.93206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39453,
+                    34.93544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "中島中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島3303番地<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.39453<br>緯度: 34.93544",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島3303番地",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.39453",
+                "緯度": "34.93544"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39615,
+                    34.93407,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "中島浄化センター(水処理棟)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島1711番地の1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.39615<br>緯度: 34.93407",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島1711番地の1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.39615",
+                "緯度": "34.93407"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40062,
+                    34.93496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "有料老人ホーム_ナーシングホームあしたば2号館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島1687-39<br>避難可能場所: 4階ホール、屋上<br>高さ: <br>経度: 138.40062<br>緯度: 34.93496",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島1687-39",
+                "避難可能場所": "4階ホール、屋上",
+                "高さ": "",
+                "経度": "138.40062",
+                "緯度": "34.93496"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40215,
+                    34.93598,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "有料老人ホーム_ナーシングホームあしたば1号館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島1684-15<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.40215<br>緯度: 34.93598",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島1684-15",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.40215",
+                "緯度": "34.93598"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39345,
+                    34.94323,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "アンビ・ア_タクシー_静岡事業部_立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島687-1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.39345<br>緯度: 34.94323",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島687-1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.39345",
+                "緯度": "34.94323"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39809,
+                    34.94239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営中島住宅",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島2968番<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.39809<br>緯度: 34.94239",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島2968番",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.39809",
+                "緯度": "34.94239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39961,
+                    34.94109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "中島小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島2992番地の1<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.39961<br>緯度: 34.94109",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島2992番地の1",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.39961",
+                "緯度": "34.94109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4124,
+                    34.94543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "下島公民館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区下島497<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.41240<br>緯度: 34.94543",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区下島497",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.41240",
+                "緯度": "34.94543"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.403,
+                    34.94352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "介護老人保健施設_サンライズ大浜",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区西島528番地<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.40300<br>緯度: 34.94352",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区西島528番地",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.40300",
+                "緯度": "34.94352"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39487,
+                    34.93862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "学校法人_静岡朝鮮学園",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島1171<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.39487<br>緯度: 34.93862",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島1171",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.39487",
+                "緯度": "34.93862"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.39824,
+                    34.93362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "特別養護老人ホーム_なごみ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区中島2580番1<br>避難可能場所: 3階共有スペース<br>高さ: <br>経度: 138.39824<br>緯度: 34.93362",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島2580番1",
+                "避難可能場所": "3階共有スペース",
+                "高さ": "",
+                "経度": "138.39824",
+                "緯度": "34.93362"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40721,
+                    34.94398,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ふじみ幼稚園",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 中島<br>所在地: 静岡市駿河区西島402番地<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.40721<br>緯度: 34.94398",
+                "種別": "津波避難ビル",
+                "地区": "中島",
+                "所在地": "静岡市駿河区西島402番地",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.40721",
+                "緯度": "34.94398"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.41466,
+                    34.94439,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "にこはうす",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 大里東<br>所在地: 静岡市駿河区高松3414番地<br>避難可能場所: 3、4階の廊下、屋上<br>高さ: <br>経度: 138.41466<br>緯度: 34.94439",
+                "種別": "津波避難ビル",
+                "地区": "大里東",
+                "所在地": "静岡市駿河区高松3414番地",
+                "避難可能場所": "3、4階の廊下、屋上",
+                "高さ": "",
+                "経度": "138.41466",
+                "緯度": "34.94439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4191,
+                    34.94588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "大里東小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 大里東<br>所在地: 静岡市駿河区高松2310番地<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.41910<br>緯度: 34.94588",
+                "種別": "津波避難ビル",
+                "地区": "大里東",
+                "所在地": "静岡市駿河区高松2310番地",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.41910",
+                "緯度": "34.94588"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.41756,
+                    34.95207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "宮竹小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 宮竹<br>所在地: 静岡市駿河区宮竹二丁目12番1号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.41756<br>緯度: 34.95207",
+                "種別": "津波避難ビル",
+                "地区": "宮竹",
+                "所在地": "静岡市駿河区宮竹二丁目12番1号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.41756",
+                "緯度": "34.95207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.41878,
+                    34.95122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "南中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 宮竹<br>所在地: 静岡市駿河区宮竹二丁目11番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.41878<br>緯度: 34.95122",
+                "種別": "津波避難ビル",
+                "地区": "宮竹",
+                "所在地": "静岡市駿河区宮竹二丁目11番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.41878",
+                "緯度": "34.95122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.41011,
+                    34.94965,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡銀行_下島支店",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 宮竹<br>所在地: 静岡市駿河区敷地一丁目2番25号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.41011<br>緯度: 34.94965",
+                "種別": "津波避難ビル",
+                "地区": "宮竹",
+                "所在地": "静岡市駿河区敷地一丁目2番25号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.41011",
+                "緯度": "34.94965"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.43109,
+                    34.95497,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "大谷小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 大谷<br>所在地: 静岡市駿河区大谷3683番地の2<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.43109<br>緯度: 34.95497",
+                "種別": "津波避難ビル",
+                "地区": "大谷",
+                "所在地": "静岡市駿河区大谷3683番地の2",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.43109",
+                "緯度": "34.95497"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.45047,
+                    34.96048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "すんぷ夢ひろば_立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 久能<br>所在地: 静岡市駿河区古宿294<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.45047<br>緯度: 34.96048",
+                "種別": "津波避難ビル",
+                "地区": "久能",
+                "所在地": "静岡市駿河区古宿294",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.45047",
+                "緯度": "34.96048"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.45656,
+                    34.95745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "久能小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 久能<br>所在地: 静岡市駿河区古宿213番地の2<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.45656<br>緯度: 34.95745",
+                "種別": "津波避難ビル",
+                "地区": "久能",
+                "所在地": "静岡市駿河区古宿213番地の2",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.45656",
+                "緯度": "34.95745"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.47124,
+                    34.96281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "特別養護老人ホーム_久能の里",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 久能<br>所在地: 静岡市駿河区根古屋289-1<br>避難可能場所: 3階ホール、4階事務室・屋上、新館屋上<br>高さ: <br>経度: 138.47124<br>緯度: 34.96281",
+                "種別": "津波避難ビル",
+                "地区": "久能",
+                "所在地": "静岡市駿河区根古屋289-1",
+                "避難可能場所": "3階ホール、4階事務室・屋上、新館屋上",
+                "高さ": "",
+                "経度": "138.47124",
+                "緯度": "34.96281"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50175,
+                    34.98181,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水駒越小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 駒越<br>所在地: 静岡市清水区駒越東町2番20号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.50175<br>緯度: 34.98181",
+                "種別": "津波避難ビル",
+                "地区": "駒越",
+                "所在地": "静岡市清水区駒越東町2番20号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.50175",
+                "緯度": "34.98181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50357,
+                    34.98154,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ベルドミール",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 駒越<br>所在地: 静岡市清水区駒越東町9番27号<br>避難可能場所: 3階廊下<br>高さ: <br>経度: 138.50357<br>緯度: 34.98154",
+                "種別": "津波避難ビル",
+                "地区": "駒越",
+                "所在地": "静岡市清水区駒越東町9番27号",
+                "避難可能場所": "3階廊下",
+                "高さ": "",
+                "経度": "138.50357",
+                "緯度": "34.98154"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50015,
+                    34.98324,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ベイドリーム清水",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 駒越<br>所在地: 静岡市清水区駒越北町8番1号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.50015<br>緯度: 34.98324",
+                "種別": "津波避難ビル",
+                "地区": "駒越",
+                "所在地": "静岡市清水区駒越北町8番1号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.50015",
+                "緯度": "34.98324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50203,
+                    34.98371,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "国土交通省清水港湾事務所駒越北宿舎A棟、B棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 駒越<br>所在地: 静岡市清水区駒越北町5-100<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.50203<br>緯度: 34.98371",
+                "種別": "津波避難ビル",
+                "地区": "駒越",
+                "所在地": "静岡市清水区駒越北町5-100",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.50203",
+                "緯度": "34.98371"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50412,
+                    34.9812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "三保電話交換所",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 駒越<br>所在地: 静岡市清水区駒越南町4-48<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.50412<br>緯度: 34.98120",
+                "種別": "津波避難ビル",
+                "地区": "駒越",
+                "所在地": "静岡市清水区駒越南町4-48",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.50412",
+                "緯度": "34.98120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51086,
+                    34.98367,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡県立清水南高等学校・同中等部",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸三丁目2番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.51086<br>緯度: 34.98367",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸三丁目2番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.51086",
+                "緯度": "34.98367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5096,
+                    34.98732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水折戸西団地1・2号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸二丁目3番1号<br>避難可能場所: 4、5階の階段・踊場<br>高さ: <br>経度: 138.50960<br>緯度: 34.98732",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸二丁目3番1号",
+                "避難可能場所": "4、5階の階段・踊場",
+                "高さ": "",
+                "経度": "138.50960",
+                "緯度": "34.98732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51469,
+                    34.99028,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "東海大学付属翔洋高等学校・中等部",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸三丁目20番1号<br>避難可能場所: 5~8階の廊下、階段・踊場<br>高さ: <br>経度: 138.51469<br>緯度: 34.99028",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸三丁目20番1号",
+                "避難可能場所": "5~8階の廊下、階段・踊場",
+                "高さ": "",
+                "経度": "138.51469",
+                "緯度": "34.99028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51675,
+                    34.99076,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水三保第二小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸五丁目8番2号<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.51675<br>緯度: 34.99076",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸五丁目8番2号",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.51675",
+                "緯度": "34.99076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51363,
+                    34.99668,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "特別養護老人ホーム_ベイコート清水",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸487番地の5<br>避難可能場所: 3階の廊下・ホール、屋上(3階部分)<br>高さ: <br>経度: 138.51363<br>緯度: 34.99668",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸487番地の5",
+                "避難可能場所": "3階の廊下・ホール、屋上(3階部分)",
+                "高さ": "",
+                "経度": "138.51363",
+                "緯度": "34.99668"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51054,
+                    34.98626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水折戸北団地_1・2号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸二丁目8番1号<br>避難可能場所: 3~5階の階段・踊場<br>高さ: <br>経度: 138.51054<br>緯度: 34.98626",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸二丁目8番1号",
+                "避難可能場所": "3~5階の階段・踊場",
+                "高さ": "",
+                "経度": "138.51054",
+                "緯度": "34.98626"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51096,
+                    34.98492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水折戸団地1~3、6~13号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸三丁目4番1号<br>避難可能場所: 3、4階の階段・踊場<br>高さ: <br>経度: 138.51096<br>緯度: 34.98492",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸三丁目4番1号",
+                "避難可能場所": "3、4階の階段・踊場",
+                "高さ": "",
+                "経度": "138.51096",
+                "緯度": "34.98492"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51305,
+                    34.98636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "国立清水海上技術短期大学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 折戸<br>所在地: 静岡市清水区折戸三丁目18番1号<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.51305<br>緯度: 34.98636",
+                "種別": "津波避難ビル",
+                "地区": "折戸",
+                "所在地": "静岡市清水区折戸三丁目18番1号",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.51305",
+                "緯度": "34.98636"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5166,
+                    34.99736,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "特別養護老人ホーム_えん",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保16番地の1<br>避難可能場所: 4階の階段、踊場、廊下<br>高さ: <br>経度: 138.51660<br>緯度: 34.99736",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保16番地の1",
+                "避難可能場所": "4階の階段、踊場、廊下",
+                "高さ": "",
+                "経度": "138.51660",
+                "緯度": "34.99736"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52214,
+                    35.00063,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水三保第一小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保1069番地の1<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.52214<br>緯度: 35.00063",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保1069番地の1",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.52214",
+                "緯度": "35.00063"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52536,
+                    35.00094,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水第五中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保1720番地<br>避難可能場所: 3階<br>高さ: <br>経度: 138.52536<br>緯度: 35.00094",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保1720番地",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.52536",
+                "緯度": "35.00094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52487,
+                    35.01022,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "介護付有料老人ホーム_ベストライフ三保の松原",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保2137番地の2<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.52487<br>緯度: 35.01022",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保2137番地の2",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.52487",
+                "緯度": "35.01022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52045,
+                    35.01783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "東海大学三保研修館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保2438<br>避難可能場所: 3階の居室<br>高さ: <br>経度: 138.52045<br>緯度: 35.01783",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保2438",
+                "避難可能場所": "3階の居室",
+                "高さ": "",
+                "経度": "138.52045",
+                "緯度": "35.01783"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5191,
+                    35.01694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "三保シーサイドホテル福田家",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保2728番地の4<br>避難可能場所: 3~4階の階段・廊下・居室・屋上<br>高さ: <br>経度: 138.51910<br>緯度: 35.01694",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保2728番地の4",
+                "避難可能場所": "3~4階の階段・廊下・居室・屋上",
+                "高さ": "",
+                "経度": "138.51910",
+                "緯度": "35.01694"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51825,
+                    35.00611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "日本平消防署　三保出張所",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保3503-47<br>避難可能場所: 4階ホール<br>高さ: <br>経度: 138.51825<br>緯度: 35.00611",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保3503-47",
+                "避難可能場所": "4階ホール",
+                "高さ": "",
+                "経度": "138.51825",
+                "緯度": "35.00611"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5195,
+                    35.01229,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "鈴与三保クラブハウス",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保2945番地の1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.51950<br>緯度: 35.01229",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保2945番地の1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.51950",
+                "緯度": "35.01229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51152,
+                    34.99908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "日本軽金属(株)三保白浜社宅",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保194-6<br>避難可能場所: 3、4階廊下<br>高さ: <br>経度: 138.51152<br>緯度: 34.99908",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保194-6",
+                "避難可能場所": "3、4階廊下",
+                "高さ": "",
+                "経度": "138.51152",
+                "緯度": "34.99908"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52533,
+                    34.99836,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水羽衣団地1~8号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保1550番地の1<br>避難可能場所: 3階(階段室)<br>高さ: <br>経度: 138.52533<br>緯度: 34.99836",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保1550番地の1",
+                "避難可能場所": "3階(階段室)",
+                "高さ": "",
+                "経度": "138.52533",
+                "緯度": "34.99836"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50752,
+                    35.00324,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "グランディール塚間",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保556-21<br>避難可能場所: 3階廊下<br>高さ: <br>経度: 138.50752<br>緯度: 35.00324",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保556-21",
+                "避難可能場所": "3階廊下",
+                "高さ": "",
+                "経度": "138.50752",
+                "緯度": "35.00324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51776,
+                    34.9995,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ラ・ナシカ三保の松原",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 三保<br>所在地: 静岡市清水区三保61-1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.51776<br>緯度: 34.99950",
+                "種別": "津波避難ビル",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保61-1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.51776",
+                "緯度": "34.99950"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48761,
+                    34.98981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水第四中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区村松683番地の1<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.48761<br>緯度: 34.98981",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区村松683番地の1",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.48761",
+                "緯度": "34.98981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48949,
+                    34.99531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水不二見小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区新緑町2番21号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.48949<br>緯度: 34.99531",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区新緑町2番21号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.48949",
+                "緯度": "34.99531"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49342,
+                    34.99682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "マルハン村松店駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区清開二丁目41番20号<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.49342<br>緯度: 34.99682",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区清開二丁目41番20号",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.49342",
+                "緯度": "34.99682"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50092,
+                    34.99108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水南部浄化センター(管理棟)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区清開三丁目10番1号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.50092<br>緯度: 34.99108",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区清開三丁目10番1号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.50092",
+                "緯度": "34.99108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49443,
+                    34.99004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LIBERTE_MIYAKAMI",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区宮加三60-1<br>避難可能場所: 3、4階廊下<br>高さ: <br>経度: 138.49443<br>緯度: 34.99004",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区宮加三60-1",
+                "避難可能場所": "3、4階廊下",
+                "高さ": "",
+                "経度": "138.49443",
+                "緯度": "34.99004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49776,
+                    34.99514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水埠頭株式会社港湾荷役管理棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 不二見<br>所在地: 静岡市清水区清開三丁目5番40号<br>避難可能場所: 3~6階の廊下・事務所、屋上<br>高さ: <br>経度: 138.49776<br>緯度: 34.99514",
+                "種別": "津波避難ビル",
+                "地区": "不二見",
+                "所在地": "静岡市清水区清開三丁目5番40号",
+                "避難可能場所": "3~6階の廊下・事務所、屋上",
+                "高さ": "",
+                "経度": "138.49776",
+                "緯度": "34.99514"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49194,
+                    34.99935,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "三明電子産業(株)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区幸町9番26号<br>避難可能場所: 3階ホール<br>高さ: <br>経度: 138.49194<br>緯度: 34.99935",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区幸町9番26号",
+                "避難可能場所": "3階ホール",
+                "高さ": "",
+                "経度": "138.49194",
+                "緯度": "34.99935"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48744,
+                    35.00297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営三光町団地",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区三光町2番10号<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.48744<br>緯度: 35.00297",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区三光町2番10号",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.48744",
+                "緯度": "35.00297"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48744,
+                    35.00149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水第三中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区三光町3番57号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48744<br>緯度: 35.00149",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区三光町3番57号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48744",
+                "緯度": "35.00149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49062,
+                    35.0023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区松井町15番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.49062<br>緯度: 35.00230",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区松井町15番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.49062",
+                "緯度": "35.00230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49355,
+                    35.00343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水築地ポンプ場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区築地町4番15号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.49355<br>緯度: 35.00343",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区築地町4番15号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.49355",
+                "緯度": "35.00343"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49364,
+                    35.0049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "鈴与(株)港湾センター",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区築地町7−32<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.49364<br>緯度: 35.00490",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区築地町7−32",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.49364",
+                "緯度": "35.00490"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49356,
+                    35.00719,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "(株)天野回漕店",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区港町二丁目9番5号<br>避難可能場所: 3階ホール、屋上<br>高さ: <br>経度: 138.49356<br>緯度: 35.00719",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区港町二丁目9番5号",
+                "避難可能場所": "3階ホール、屋上",
+                "高さ": "",
+                "経度": "138.49356",
+                "緯度": "35.00719"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49402,
+                    35.00841,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "浪漫館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区港町二丁目10番1号<br>避難可能場所: 14階市民ホール<br>高さ: <br>経度: 138.49402<br>緯度: 35.00841",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区港町二丁目10番1号",
+                "避難可能場所": "14階市民ホール",
+                "高さ": "",
+                "経度": "138.49402",
+                "緯度": "35.00841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49617,
+                    35.00861,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水港湾合同庁舎",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区日の出町9番1号<br>避難可能場所: 6階会議室、屋上<br>高さ: <br>経度: 138.49617<br>緯度: 35.00861",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区日の出町9番1号",
+                "避難可能場所": "6階会議室、屋上",
+                "高さ": "",
+                "経度": "138.49617",
+                "緯度": "35.00861"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49617,
+                    35.00861,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "港湾会館清水日の出センター(清水マリンビル)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区日の出町9番25号<br>避難可能場所: 3~7階の階段、5・6階の廊下・会議室、7階廊下・ホール、屋上<br>高さ: <br>経度: 138.49617<br>緯度: 35.00861",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区日の出町9番25号",
+                "避難可能場所": "3~7階の階段、5・6階の廊下・会議室、7階廊下・ホール、屋上",
+                "高さ": "",
+                "経度": "138.49617",
+                "緯度": "35.00861"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49692,
+                    35.00902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水マリンターミナル",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区日の出町10番80号<br>避難可能場所: 2階、3階廊下・会議室、屋上<br>高さ: <br>経度: 138.49692<br>緯度: 35.00902",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区日の出町10番80号",
+                "避難可能場所": "2階、3階廊下・会議室、屋上",
+                "高さ": "",
+                "経度": "138.49692",
+                "緯度": "35.00902"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49254,
+                    35.0113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "アオキトランス(株)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区入船町14番12号<br>避難可能場所: 屋外階段・踊場<br>高さ: <br>経度: 138.49254<br>緯度: 35.01130",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区入船町14番12号",
+                "避難可能場所": "屋外階段・踊場",
+                "高さ": "",
+                "経度": "138.49254",
+                "緯度": "35.01130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4931,
+                    35.0103,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "エスパルスドリームプラザ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区入船町13番15号<br>避難可能場所: 3階廊下ルーフテラス<br>高さ: <br>経度: 138.49310<br>緯度: 35.01030",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区入船町13番15号",
+                "避難可能場所": "3階廊下ルーフテラス",
+                "高さ": "",
+                "経度": "138.49310",
+                "緯度": "35.01030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49176,
+                    35.01097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "エスパルスドリームプラザP1立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区入船町10番20号<br>避難可能場所: 3~7階、屋上<br>高さ: <br>経度: 138.49176<br>緯度: 35.01097",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区入船町10番20号",
+                "避難可能場所": "3~7階、屋上",
+                "高さ": "",
+                "経度": "138.49176",
+                "緯度": "35.01097"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49207,
+                    35.0102,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "鈴与(株)本社ビル",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区入船町11-1<br>避難可能場所: 5階ホール、屋上<br>高さ: <br>経度: 138.49207<br>緯度: 35.01020",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区入船町11-1",
+                "避難可能場所": "5階ホール、屋上",
+                "高さ": "",
+                "経度": "138.49207",
+                "緯度": "35.01020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49051,
+                    35.009,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "(社)日本海事検定協会_清水事業所",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区入船町4番18号<br>避難可能場所: 屋外階段、屋上<br>高さ: <br>経度: 138.49051<br>緯度: 35.00900",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区入船町4番18号",
+                "避難可能場所": "屋外階段、屋上",
+                "高さ": "",
+                "経度": "138.49051",
+                "緯度": "35.00900"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48967,
+                    35.01079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水港木材産業協同組合_木材ビル別館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区富士見町8番15号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.48967<br>緯度: 35.01079",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区富士見町8番15号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.48967",
+                "緯度": "35.01079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48938,
+                    35.00971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "木産パーク(立体駐車場)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区富士見町43<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.48938<br>緯度: 35.00971",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区富士見町43",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.48938",
+                "緯度": "35.00971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49236,
+                    35.0023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水生涯学習交流館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区松井町7-22<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.49236<br>緯度: 35.00230",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区松井町7-22",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.49236",
+                "緯度": "35.00230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48943,
+                    35.00137,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水富士山病院",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 清水<br>所在地: 静岡市清水区八千代町6番33号<br>避難可能場所: 3~5階病室<br>高さ: <br>経度: 138.48943<br>緯度: 35.00137",
+                "種別": "津波避難ビル",
+                "地区": "清水",
+                "所在地": "静岡市清水区八千代町6番33号",
+                "避難可能場所": "3~5階病室",
+                "高さ": "",
+                "経度": "138.48943",
+                "緯度": "35.00137"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48013,
+                    35.00693,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水第二中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 岡<br>所在地: 静岡市清水区神田町4番57号<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.48013<br>緯度: 35.00693",
+                "種別": "津波避難ビル",
+                "地区": "岡",
+                "所在地": "静岡市清水区神田町4番57号",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.48013",
+                "緯度": "35.00693"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48013,
+                    35.00693,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水岡小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 岡<br>所在地: 静岡市清水区神田町4番3号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48013<br>緯度: 35.00693",
+                "種別": "津波避難ビル",
+                "地区": "岡",
+                "所在地": "静岡市清水区神田町4番3号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48013",
+                "緯度": "35.00693"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48415,
+                    35.00966,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水聖母保育園",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 岡<br>所在地: 静岡市清水区岡町1番34号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.48415<br>緯度: 35.00966",
+                "種別": "津波避難ビル",
+                "地区": "岡",
+                "所在地": "静岡市清水区岡町1番34号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.48415",
+                "緯度": "35.00966"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49065,
+                    35.01176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "日軽産業(株)_本社ビル",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区松原町5番12号<br>避難可能場所: 3階~6階の屋外階段<br>高さ: <br>経度: 138.49065<br>緯度: 35.01176",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区松原町5番12号",
+                "避難可能場所": "3階~6階の屋外階段",
+                "高さ": "",
+                "経度": "138.49065",
+                "緯度": "35.01176"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48964,
+                    35.01574,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡市役所_清水庁舎",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区旭町6番8号<br>避難可能場所: 3~9階の会議室・ホール<br>高さ: <br>経度: 138.48964<br>緯度: 35.01574",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区旭町6番8号",
+                "避難可能場所": "3~9階の会議室・ホール",
+                "高さ": "",
+                "経度": "138.48964",
+                "緯度": "35.01574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49034,
+                    35.01274,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水合同庁舎",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区松原町2-15<br>避難可能場所: 低層部屋上<br>高さ: <br>経度: 138.49034<br>緯度: 35.01274",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区松原町2-15",
+                "避難可能場所": "低層部屋上",
+                "高さ": "",
+                "経度": "138.49034",
+                "緯度": "35.01274"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48907,
+                    35.01448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡市清水産業情報プラザ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区相生町6番17号<br>避難可能場所: 3~7階、施設立体駐車場屋上<br>高さ: <br>経度: 138.48907<br>緯度: 35.01448",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区相生町6番17号",
+                "避難可能場所": "3~7階、施設立体駐車場屋上",
+                "高さ": "",
+                "経度": "138.48907",
+                "緯度": "35.01448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48846,
+                    35.01646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ホテルサンルート清水",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区相生町8番8号<br>避難可能場所: 3階会議室、4~8階廊下、屋上<br>高さ: <br>経度: 138.48846<br>緯度: 35.01646",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区相生町8番8号",
+                "避難可能場所": "3階会議室、4~8階廊下、屋上",
+                "高さ": "",
+                "経度": "138.48846",
+                "緯度": "35.01646"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48596,
+                    35.01585,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "新清水ハイツ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区千歳町5-1<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.48596<br>緯度: 35.01585",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区千歳町5-1",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.48596",
+                "緯度": "35.01585"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48715,
+                    35.01326,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "介護老人福祉施設_巴の園",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区万世町一丁目1番30号<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.48715<br>緯度: 35.01326",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区万世町一丁目1番30号",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.48715",
+                "緯度": "35.01326"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48334,
+                    35.01305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水浜田小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区浜田町11番1号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48334<br>緯度: 35.01305",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区浜田町11番1号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48334",
+                "緯度": "35.01305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49045,
+                    35.01923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水駅東口駐車場(立体駐車場)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区島崎町219番地<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.49045<br>緯度: 35.01923",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区島崎町219番地",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.49045",
+                "緯度": "35.01923"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4895,
+                    35.02054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "勤労者福祉センター清水テルサ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区島崎町223<br>避難可能場所: 3~8階<br>高さ: <br>経度: 138.48950<br>緯度: 35.02054",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区島崎町223",
+                "避難可能場所": "3~8階",
+                "高さ": "",
+                "経度": "138.48950",
+                "緯度": "35.02054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4895,
+                    35.02054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "新興港運(株)立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 浜田<br>所在地: 静岡市清水区島崎町149番地の4<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.48950<br>緯度: 35.02054",
+                "種別": "津波避難ビル",
+                "地区": "浜田",
+                "所在地": "静岡市清水区島崎町149番地の4",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.48950",
+                "緯度": "35.02054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.47995,
+                    35.02079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水江尻小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 江尻<br>所在地: 静岡市清水区江尻町14番63号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.47995<br>緯度: 35.02079",
+                "種別": "津波避難ビル",
+                "地区": "江尻",
+                "所在地": "静岡市清水区江尻町14番63号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.47995",
+                "緯度": "35.02079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48241,
+                    35.02302,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "江尻生涯学習交流館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 江尻<br>所在地: 静岡市清水区小芝町3-35<br>避難可能場所: 3階、屋上<br>高さ: <br>経度: 138.48241<br>緯度: 35.02302",
+                "種別": "津波避難ビル",
+                "地区": "江尻",
+                "所在地": "静岡市清水区小芝町3-35",
+                "避難可能場所": "3階、屋上",
+                "高さ": "",
+                "経度": "138.48241",
+                "緯度": "35.02302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48181,
+                    35.01937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "庵原屋_日和館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 江尻<br>所在地: 静岡市清水区江尻町4番41号<br>避難可能場所: 3~6階廊下、屋上<br>高さ: <br>経度: 138.48181<br>緯度: 35.01937",
+                "種別": "津波避難ビル",
+                "地区": "江尻",
+                "所在地": "静岡市清水区江尻町4番41号",
+                "避難可能場所": "3~6階廊下、屋上",
+                "高さ": "",
+                "経度": "138.48181",
+                "緯度": "35.01937"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4879,
+                    35.01936,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ホテルビスタ清水",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区真砂町1番23号<br>避難可能場所: 3~11階の階段・踊場、屋上<br>高さ: <br>経度: 138.48790<br>緯度: 35.01936",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区真砂町1番23号",
+                "避難可能場所": "3~11階の階段・踊場、屋上",
+                "高さ": "",
+                "経度": "138.48790",
+                "緯度": "35.01936"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48383,
+                    35.02415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡市清水社会福祉会館はーとぴあ清水",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区宮代町1-1<br>避難可能場所: 3~6階<br>高さ: <br>経度: 138.48383<br>緯度: 35.02415",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区宮代町1-1",
+                "避難可能場所": "3~6階",
+                "高さ": "",
+                "経度": "138.48383",
+                "緯度": "35.02415"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48358,
+                    35.0259,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水第一中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区宮代町5番55号<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.48358<br>緯度: 35.02590",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区宮代町5番55号",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.48358",
+                "緯度": "35.02590"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48471,
+                    35.02633,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水辻小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻四丁目3番40号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48471<br>緯度: 35.02633",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻四丁目3番40号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48471",
+                "緯度": "35.02633"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48772,
+                    35.02479,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "田中屋ビル",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目3番1号<br>避難可能場所: 3~6階の階段・踊場・廊下、6階居室、屋上<br>高さ: <br>経度: 138.48772<br>緯度: 35.02479",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目3番1号",
+                "避難可能場所": "3~6階の階段・踊場・廊下、6階居室、屋上",
+                "高さ": "",
+                "経度": "138.48772",
+                "緯度": "35.02479"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48857,
+                    35.02785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水駅西口第一自転車等駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目7番2号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48857<br>緯度: 35.02785",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目7番2号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48857",
+                "緯度": "35.02785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48885,
+                    35.02758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "第一倉庫(株)_本社",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目5番13号<br>避難可能場所: 3階の階段・踊場、4階会議室、屋上<br>高さ: <br>経度: 138.48885<br>緯度: 35.02758",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目5番13号",
+                "避難可能場所": "3階の階段・踊場、4階会議室、屋上",
+                "高さ": "",
+                "経度": "138.48885",
+                "緯度": "35.02758"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.47992,
+                    35.02966,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡県立清水東高等学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区秋吉町5番10号<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.47992<br>緯度: 35.02966",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区秋吉町5番10号",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.47992",
+                "緯度": "35.02966"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48782,
+                    35.03185,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "県営住宅宮下団地_1・2・3号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区宮下町3番8号ほか<br>避難可能場所: 3~4階の階段・踊場<br>高さ: <br>経度: 138.48782<br>緯度: 35.03185",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区宮下町3番8号ほか",
+                "避難可能場所": "3~4階の階段・踊場",
+                "高さ": "",
+                "経度": "138.48782",
+                "緯度": "35.03185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48839,
+                    35.02431,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "アトラス清水駅前",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目1番3号<br>避難可能場所: 3階以上の階段・踊場・廊下<br>高さ: <br>経度: 138.48839<br>緯度: 35.02431",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目1番3号",
+                "避難可能場所": "3階以上の階段・踊場・廊下",
+                "高さ": "",
+                "経度": "138.48839",
+                "緯度": "35.02431"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48868,
+                    35.02549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡市清水駅西口第2自転車駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目14番1号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.48868<br>緯度: 35.02549",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目14番1号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.48868",
+                "緯度": "35.02549"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48761,
+                    35.02397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "えじりあ_駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区辻一丁目2番1号<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.48761<br>緯度: 35.02397",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区辻一丁目2番1号",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.48761",
+                "緯度": "35.02397"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48071,
+                    35.02489,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水国際高等学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 辻<br>所在地: 静岡市清水区天神一丁目4番1号<br>避難可能場所: 3階体育館・廊下<br>高さ: <br>経度: 138.48071<br>緯度: 35.02489",
+                "種別": "津波避難ビル",
+                "地区": "辻",
+                "所在地": "静岡市清水区天神一丁目4番1号",
+                "避難可能場所": "3階体育館・廊下",
+                "高さ": "",
+                "経度": "138.48071",
+                "緯度": "35.02489"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49289,
+                    35.03115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "マルハン袖師店駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区袖師町1877番地の37<br>避難可能場所: 3~4階、屋上<br>高さ: <br>経度: 138.49289<br>緯度: 35.03115",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区袖師町1877番地の37",
+                "避難可能場所": "3~4階、屋上",
+                "高さ": "",
+                "経度": "138.49289",
+                "緯度": "35.03115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49289,
+                    35.03115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "(株)ABC清水袖師町店立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区袖師町1877番地の12<br>避難可能場所: 3~5階、屋上<br>高さ: <br>経度: 138.49289<br>緯度: 35.03115",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区袖師町1877番地の12",
+                "避難可能場所": "3~5階、屋上",
+                "高さ": "",
+                "経度": "138.49289",
+                "緯度": "35.03115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4946,
+                    35.03405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ベイホテル入船館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区袖師町1477番地の1<br>避難可能場所: 5~9階の階段・踊場・廊下、屋上<br>高さ: <br>経度: 138.49460<br>緯度: 35.03405",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区袖師町1477番地の1",
+                "避難可能場所": "5~9階の階段・踊場・廊下、屋上",
+                "高さ": "",
+                "経度": "138.49460",
+                "緯度": "35.03405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48982,
+                    35.03516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水袖師小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区袖師町420番地<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.48982<br>緯度: 35.03516",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区袖師町420番地",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.48982",
+                "緯度": "35.03516"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49371,
+                    35.03792,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "パチンコプラザ-1・2立体駐車場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区袖師町982番地の2<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.49371<br>緯度: 35.03792",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区袖師町982番地の2",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.49371",
+                "緯度": "35.03792"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49973,
+                    35.0382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水横砂団地",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区横砂南町3番21号<br>避難可能場所: 3~5階の階段・踊場<br>高さ: <br>経度: 138.49973<br>緯度: 35.03820",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区横砂南町3番21号",
+                "避難可能場所": "3~5階の階段・踊場",
+                "高さ": "",
+                "経度": "138.49973",
+                "緯度": "35.03820"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50716,
+                    35.03506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水北部浄化センター(水処理棟)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 袖師<br>所在地: 静岡市清水区横砂408番地の15<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.50716<br>緯度: 35.03506",
+                "種別": "津波避難ビル",
+                "地区": "袖師",
+                "所在地": "静岡市清水区横砂408番地の15",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.50716",
+                "緯度": "35.03506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51892,
+                    35.04812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "興津生涯学習交流館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津本町829<br>避難可能場所: 3階<br>高さ: <br>経度: 138.51892<br>緯度: 35.04812",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津本町829",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.51892",
+                "緯度": "35.04812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52267,
+                    35.0569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水興津中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津中町1478番地の10<br>避難可能場所: 3、4階<br>高さ: <br>経度: 138.52267<br>緯度: 35.05690",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津中町1478番地の10",
+                "避難可能場所": "3、4階",
+                "高さ": "",
+                "経度": "138.52267",
+                "緯度": "35.05690"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52629,
+                    35.05506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水興津小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津中町350番地の1<br>避難可能場所: 3階<br>高さ: <br>経度: 138.52629<br>緯度: 35.05506",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津中町350番地の1",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.52629",
+                "緯度": "35.05506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52809,
+                    35.0564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "県営住宅興津団地_1号棟~9号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津中町625-1<br>避難可能場所: 3~5階の階段・踊場<br>高さ: <br>経度: 138.52809<br>緯度: 35.05640",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津中町625-1",
+                "避難可能場所": "3~5階の階段・踊場",
+                "高さ": "",
+                "経度": "138.52809",
+                "緯度": "35.05640"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.53217,
+                    35.05681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "市営清水興津東町西団地_1・2号棟",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津東町1210番地の8<br>避難可能場所: 3~5階の廊下・階段・踊場<br>高さ: <br>経度: 138.53217<br>緯度: 35.05681",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津東町1210番地の8",
+                "避難可能場所": "3~5階の廊下・階段・踊場",
+                "高さ": "",
+                "経度": "138.53217",
+                "緯度": "35.05681"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52345,
+                    35.05471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "果樹研究所カンキツ研究興津拠点_共同実験室",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津中町485-6<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.52345<br>緯度: 35.05471",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津中町485-6",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.52345",
+                "緯度": "35.05471"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.53322,
+                    35.05693,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "駿河健康ランド",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津東町1234<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.53322<br>緯度: 35.05693",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津東町1234",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.53322",
+                "緯度": "35.05693"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52371,
+                    35.05218,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡銀行_興津支店",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 興津<br>所在地: 静岡市清水区興津中町244番地<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.52371<br>緯度: 35.05218",
+                "種別": "津波避難ビル",
+                "地区": "興津",
+                "所在地": "静岡市清水区興津中町244番地",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.52371",
+                "緯度": "35.05218"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.55614,
+                    35.10794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "由比小学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 由比<br>所在地: 静岡市清水区由比町屋原329番地<br>避難可能場所: 3階<br>高さ: <br>経度: 138.55614<br>緯度: 35.10794",
+                "種別": "津波避難ビル",
+                "地区": "由比",
+                "所在地": "静岡市清水区由比町屋原329番地",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.55614",
+                "緯度": "35.10794"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.56276,
+                    35.1081,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "由比中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 由比<br>所在地: 静岡市清水区由比456番地<br>避難可能場所: 3階<br>高さ: <br>経度: 138.56276<br>緯度: 35.10810",
+                "種別": "津波避難ビル",
+                "地区": "由比",
+                "所在地": "静岡市清水区由比456番地",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.56276",
+                "緯度": "35.10810"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.56186,
+                    35.1062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "旧由比庁舎",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 由比<br>所在地: 静岡市清水区由比北田110番1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.56186<br>緯度: 35.10620",
+                "種別": "津波避難ビル",
+                "地区": "由比",
+                "所在地": "静岡市清水区由比北田110番1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.56186",
+                "緯度": "35.10620"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.56236,
+                    35.10619,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "由比生涯学習交流館",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 由比<br>所在地: 静岡市清水区由比北田457番地の1<br>避難可能場所: 3階<br>高さ: <br>経度: 138.56236<br>緯度: 35.10619",
+                "種別": "津波避難ビル",
+                "地区": "由比",
+                "所在地": "静岡市清水区由比北田457番地の1",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.56236",
+                "緯度": "35.10619"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.55917,
+                    35.10557,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清水銀行由比支店",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 由比<br>所在地: 静岡市清水区由比町屋原175番地の1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.55917<br>緯度: 35.10557",
+                "種別": "津波避難ビル",
+                "地区": "由比",
+                "所在地": "静岡市清水区由比町屋原175番地の1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.55917",
+                "緯度": "35.10557"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.59569,
+                    35.11615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "蒲原市民センター(蒲原生涯学習交流館)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原新田一丁目21番1号<br>避難可能場所: 3階<br>高さ: <br>経度: 138.59569<br>緯度: 35.11615",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原新田一丁目21番1号",
+                "避難可能場所": "3階",
+                "高さ": "",
+                "経度": "138.59569",
+                "緯度": "35.11615"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.59857,
+                    35.11568,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "静岡銀行_蒲原支店",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原新田一丁目199番29<br>避難可能場所: 屋上、3階多目的室<br>高さ: <br>経度: 138.59857<br>緯度: 35.11568",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原新田一丁目199番29",
+                "避難可能場所": "屋上、3階多目的室",
+                "高さ": "",
+                "経度": "138.59857",
+                "緯度": "35.11568"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.593,
+                    35.11417,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "株式会社エイシンフーズ",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原小金107番地の2<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.59300<br>緯度: 35.11417",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原小金107番地の2",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.59300",
+                "緯度": "35.11417"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.62524,
+                    35.11981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "リョービ株式会社(静岡工場総合事務所)",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原5215-1<br>避難可能場所: 屋上<br>高さ: <br>経度: 138.62524<br>緯度: 35.11981",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原5215-1",
+                "避難可能場所": "屋上",
+                "高さ": "",
+                "経度": "138.62524",
+                "緯度": "35.11981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5936,
+                    35.11537,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "株式会社ヤママル_工場",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原小金184-1<br>避難可能場所: ベランダ<br>高さ: <br>経度: 138.59360<br>緯度: 35.11537",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原小金184-1",
+                "避難可能場所": "ベランダ",
+                "高さ": "",
+                "経度": "138.59360",
+                "緯度": "35.11537"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.61984,
+                    35.12505,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "蒲原中学校",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難ビル<br>地区: 蒲原<br>所在地: 静岡市清水区蒲原49番地<br>避難可能場所: 3階~屋上<br>高さ: <br>経度: 138.61984<br>緯度: 35.12505",
+                "種別": "津波避難ビル",
+                "地区": "蒲原",
+                "所在地": "静岡市清水区蒲原49番地",
+                "避難可能場所": "3階~屋上",
+                "高さ": "",
+                "経度": "138.61984",
+                "緯度": "35.12505"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40538,
+                    34.93773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "大浜公園内",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 中島<br>所在地: 静岡市駿河区西島1380<br>避難可能場所: <br>高さ: 7m<br>経度: 138.40538<br>緯度: 34.93773",
+                "種別": "津波避難タワー",
+                "地区": "中島",
+                "所在地": "静岡市駿河区西島1380",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.40538",
+                "緯度": "34.93773"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40347,
+                    34.93747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "大浜荘敷地内",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 中島<br>所在地: 静岡市駿河区中島2676-1<br>避難可能場所: <br>高さ: 1層目7m・2層目10m<br>経度: 138.40347<br>緯度: 34.93747",
+                "種別": "津波避難タワー",
+                "地区": "中島",
+                "所在地": "静岡市駿河区中島2676-1",
+                "避難可能場所": "",
+                "高さ": "1層目7m・2層目10m",
+                "経度": "138.40347",
+                "緯度": "34.93747"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40781,
+                    34.94433,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "塩田公園内",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 下島<br>所在地: 静岡市駿河区下島 615-56<br>避難可能場所: <br>高さ: 1層目7m・2層目10m<br>経度: 138.40781<br>緯度: 34.94433",
+                "種別": "津波避難タワー",
+                "地区": "下島",
+                "所在地": "静岡市駿河区下島 615-56",
+                "避難可能場所": "",
+                "高さ": "1層目7m・2層目10m",
+                "経度": "138.40781",
+                "緯度": "34.94433"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.36385,
+                    34.92686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "汐入公園内",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 長田南<br>所在地: 静岡市駿河区用宗一丁目17<br>避難可能場所: <br>高さ: 7m<br>経度: 138.36385<br>緯度: 34.92686",
+                "種別": "津波避難タワー",
+                "地区": "長田南",
+                "所在地": "静岡市駿河区用宗一丁目17",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.36385",
+                "緯度": "34.92686"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49701,
+                    34.9885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "宮加三公園内",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 不二見<br>所在地: 静岡市清水区宮加三27-1<br>避難可能場所: <br>高さ: 1層目11m・2層目14m<br>経度: 138.49701<br>緯度: 34.98850",
+                "種別": "津波避難タワー",
+                "地区": "不二見",
+                "所在地": "静岡市清水区宮加三27-1",
+                "避難可能場所": "",
+                "高さ": "1層目11m・2層目14m",
+                "経度": "138.49701",
+                "緯度": "34.98850"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51825,
+                    35.00611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ふれあい広場北",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保3503-24<br>避難可能場所: <br>高さ: 7m<br>経度: 138.51825<br>緯度: 35.00611",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保3503-24",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.51825",
+                "緯度": "35.00611"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51698,
+                    35.00435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ふれあい広場南",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保884-3<br>避難可能場所: <br>高さ: 7m<br>経度: 138.51698<br>緯度: 35.00435",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保884-3",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.51698",
+                "緯度": "35.00435"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.50928,
+                    35.00223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "塚間",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保705-5<br>避難可能場所: <br>高さ: 1層目7m・2層目10m<br>経度: 138.50928<br>緯度: 35.00223",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保705-5",
+                "避難可能場所": "",
+                "高さ": "1層目7m・2層目10m",
+                "経度": "138.50928",
+                "緯度": "35.00223"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5215,
+                    35.01069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "三保本町",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保3001-1<br>避難可能場所: <br>高さ: 7m<br>経度: 138.52150<br>緯度: 35.01069",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保3001-1",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.52150",
+                "緯度": "35.01069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51369,
+                    35.00346,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "命山",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保760<br>避難可能場所: <br>高さ: 7m<br>経度: 138.51369<br>緯度: 35.00346",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保760",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.51369",
+                "緯度": "35.00346"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.51779,
+                    35.00656,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "三保本町",
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-1312f613",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "種別: 津波避難タワー<br>地区: 三保<br>所在地: 静岡市清水区三保本町2113<br>避難可能場所: <br>高さ: 7m<br>経度: 138.51779<br>緯度: 35.00656",
+                "種別": "津波避難タワー",
+                "地区": "三保",
+                "所在地": "静岡市清水区三保本町2113",
+                "避難可能場所": "",
+                "高さ": "7m",
+                "経度": "138.51779",
+                "緯度": "35.00656"
+            }
+        }
+    ]
+}
